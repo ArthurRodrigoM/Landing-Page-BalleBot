@@ -4,7 +4,7 @@ Landing page de um bot para discord desenvolvida para prática de HTML e CSS.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
+| :sparkles: Nome        | **Landing page - BalleBot**
 | :label: Tecnologias | HTML, CSS
 | :rocket: URL         | https://landing-page-balle-bot-alpha.vercel.app/
 
